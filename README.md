@@ -1,5 +1,6 @@
 # Форма авторизации на React
-Потыкать форму можно [тут](https://pakjully.github.io/form-react/)фвв ю
+
+Прямая сслылка на форму: [ТУТ](https://pakjully.github.io/form-react/)
 
 Проект был создан с помощью  [Create React App](https://github.com/facebook/create-react-app).
 
